@@ -24,5 +24,7 @@ Some of the tools and technologies I commonly work with include:
 
 If you'd like to connect, collaborate, or just talk about development, feel free to reach out.
 
-* GitHub: https://github.com/yourusername
-* Email: [your@email.com](mailto:your@email.com)
+* GitHub: https://github.com/zainiCodes
+* Email: zainulabdinpk19@gmail.com
+* Linkdin: https://www.linkedin.com/in/zain-ul-abdin-a270183aa/
+
